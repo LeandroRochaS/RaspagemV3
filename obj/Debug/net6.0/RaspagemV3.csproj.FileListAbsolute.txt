@@ -193,3 +193,4 @@ C:\Users\Leandro\Documents\Códigos\Senai\Modulo2\RaspagemV3\RaspagemV3\obj\Debu
 C:\Users\Leandro\Documents\Códigos\Senai\Modulo2\RaspagemV3\RaspagemV3\obj\Debug\net6.0\RaspagemV3.pdb
 C:\Users\Leandro\Documents\Códigos\Senai\Modulo2\RaspagemV3\RaspagemV3\obj\Debug\net6.0\RaspagemV3.genruntimeconfig.cache
 C:\Users\Leandro\Documents\Códigos\Senai\Modulo2\RaspagemV3\RaspagemV3\obj\Debug\net6.0\ref\RaspagemV3.dll
+C:\Users\Leandro\Documents\Códigos\Senai\Modulo2\RaspagemV3\RaspagemV3\obj\Debug\net6.0\RaspagemV3.sourcelink.json

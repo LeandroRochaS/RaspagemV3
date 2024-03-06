@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaspagemV3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7e5887e87e0f31184c95339b8480c79dcd20fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaspagemV3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaspagemV3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
